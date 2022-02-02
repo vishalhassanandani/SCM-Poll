@@ -7,7 +7,7 @@ pipeline {
                 sh '''
                     echo "Multiline shell steps works too"
                     echo "Test"
-                    echo "pass1"
+                    echo "pass2"
                     ls -lah
                 '''
             }
