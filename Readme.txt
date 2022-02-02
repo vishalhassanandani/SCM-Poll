@@ -19,4 +19,3 @@ notifications:*
 #4 after configuring jenkins, verify that the webhook
 # was created
 https://github.com/{your_github_user_name}/jenkins-git/settings/hooks
-vishal
